@@ -30,3 +30,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moussan&show_icons=true&locale=en" alt="moussan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moussan&" alt="moussan" /></p>
+
+
+<a href="https://app.daily.dev/moussan"><img src="https://api.daily.dev/devcards/24b736eed5214ae6b748af5d488aa5b4.png?r=0pr" width="400" alt="Moussa El Najmi's Dev Card"/></a>
