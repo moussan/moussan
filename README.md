@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋</h1>
-<h3 align="left">I am Moussa, an experienced Solutions and Security Architect from Canada.</h3>
+<h1 align="left">Hi👋 I am Moussa, an experienced IT Professional.</h1>>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moussan" alt="moussan" /></a> </p>
 
