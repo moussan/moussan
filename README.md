@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moussan" alt="moussan" /></a> </p>
 
-- 🔭 I’m currently learning Google Compute Platform Security on Coursera, Google Cloud Boost and the Dark Web.
+- 🔭 I’m currently learning Google Compute Platform Security on Coursera, and Google Cloud Boost.
 - 👯 I’m studying for a Master's in Engineering Management.
 
 - ⚡ Fun fact **I am always exploring Mathematics and Physics. **
