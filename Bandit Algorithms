@@ -1,0 +1,43 @@
+Bandit algorithms are a class of algorithms used to solve problems where a decision-maker must choose between multiple options (or “arms”) to maximize a cumulative reward over time. These problems are often referred to as multi-armed bandit (MAB) problems, a metaphor for a gambler faced with several slot machines (bandits), each with an unknown payout distribution.
+
+Bandit algorithms balance two competing objectives:
+	1.	Exploration: Trying different options to gather information about their rewards.
+	2.	Exploitation: Leveraging the information gathered to select the option that is currently estimated to be the best.
+
+Key Components of Bandit Problems
+	•	Arms: The set of options available to the decision-maker.
+	•	Reward: A numerical value received after choosing an arm, representing its payoff.
+	•	Unknown Distributions: The reward distributions of the arms are unknown and must be learned over time.
+
+Types of Bandit Problems
+	1.	Stochastic Bandits: Rewards for each arm are drawn from a fixed, unknown probability distribution.
+	2.	Contextual Bandits: Each decision is accompanied by contextual information (features) that can influence the reward.
+	3.	Adversarial Bandits: Rewards are determined by an adversary, making the problem more challenging.
+
+Applications
+	•	Online advertising (choosing which ad to display to maximize clicks).
+	•	Clinical trials (determining the best treatment by testing multiple options).
+	•	Recommendation systems (suggesting products, movies, or articles).
+	•	Portfolio optimization (allocating investments across assets).
+
+Common Bandit Algorithms
+	1.	ε-Greedy Algorithm:
+	•	With probability ε, explore (select a random arm).
+	•	With probability ￼, exploit (select the arm with the highest estimated reward).
+	2.	Upper Confidence Bound (UCB):
+	•	Selects arms based on a balance of exploitation (mean reward) and exploration (uncertainty or variance).
+	•	Formula:
+￼
+where ￼ is the average reward of arm ￼, ￼ is the number of times arm ￼ has been pulled, and ￼ is the current round.
+	3.	Thompson Sampling:
+	•	Uses Bayesian methods to sample from the posterior distribution of each arm’s reward.
+	•	Selects the arm with the highest sampled reward.
+	4.	EXP3 (Exponential-weight algorithm for Exploration and Exploitation):
+	•	Designed for adversarial bandits.
+	•	Assigns probabilities to arms and updates weights based on observed rewards.
+
+Key Metrics
+	•	Regret: Measures the difference between the rewards obtained by the algorithm and the rewards of the optimal strategy.
+￼
+
+Bandit algorithms aim to minimize regret by efficiently balancing exploration and exploitation.
