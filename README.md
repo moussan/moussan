@@ -2,8 +2,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moussan" alt="moussan" /></a> </p>
 
-- 🔭 I’m currently learning Google Compute Platform Security on Coursera, and Google Cloud Boost.
-- 👯 I’m studying for a Master's in Engineering Management.
+- 🔭 I’m currently GCP, AWS, Azure, anything that moves on a cloud. Always focused on Cybersecurity and MLOPS.
+- 👯 I’m studying for a Master's in Electrical Engineering Specializes in Artificial Intelligence.
 
 - ⚡ Fun fact **I am always exploring Mathematics and Physics. **
 - I studied Applied Mathematics at The Open University and Astrophysics at The Australian National University.
