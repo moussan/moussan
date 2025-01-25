@@ -1,5 +1,5 @@
-<h1>Hi👋 I am Moussa, Moses, Musa, Moose, a longtime addict to Information, Technology and Science, and a professional Architect of Solutions.</h1>>
-
+<h1>Hi👋 I am Moussa, Moses, Musa, Moose...</h1>>
+<h2>A longtime addict to Information, Technology and Science. AND a professional Architect of Solutions.</h2>
 🔭 Currently learning advanced design patterns on GCP, AWS, Azure, and anything that moves on a cloud. Always focused on Cybersecurity and MLOPS.
 👯 I’m studying for a Master's in Electrical Engineering Specializing in Artificial Intelligence with some Applied Mathematics on the side.
 
