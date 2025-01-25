@@ -1,6 +1,4 @@
-<h1 align="left">Hi👋 I am Moussa, an experienced IT Professional.</h1>>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moussan" alt="moussan" /></a> </p>
+<h1>Hi👋 I am Moussa, Moses, Musa, Moose, a longtime addict to Information, Technology and Science, apparently .</h1>>
 
 - 🔭 I’m currently GCP, AWS, Azure, anything that moves on a cloud. Always focused on Cybersecurity and MLOPS.
 - 👯 I’m studying for a Master's in Electrical Engineering Specializes in Artificial Intelligence.
