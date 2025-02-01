@@ -1,9 +1,11 @@
-<h1>Hi👋 I am Moussa, Moses, Musa, Moose...</h1>>
-<h2>A longtime addict to Information, Technology and Science. AND a professional Architect of Solutions.</h2>
-🔭 Currently learning advanced design patterns on GCP, AWS, Azure, and anything that moves on a cloud. Always focused on Cybersecurity and MLOPS.
+# Hi👋
+## Information, Technology and Science.
+---
+
+🔭 Currently learning advanced design patterns on GCP, AWS, Azure, and anything that lives on a cloud.
 👯 I’m studying for a Master's in Electrical Engineering Specializing in Artificial Intelligence with some Applied Mathematics on the side.
 
-⚡ Always exploring Mathematics and Physics. Its the era of Citizen Scientists.
+⚡ Exploring Mathematics and Physics. Its the era of Citizen Scientists.
 Studied Applied Mathematics at The Open University and Astrophysics at The Australian National University.
 With a Computer Engineering background and a Master's in International Business.
 
