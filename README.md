@@ -1,6 +1,4 @@
-# Hi👋
-## Information, Technology and Science.
----
+# Hi👋 Friends of Information, Technology and Science.
 
 🔭 Currently learning advanced design patterns on GCP, AWS, Azure, and anything that lives on a cloud.
 👯 I’m studying for a Master's in Electrical Engineering Specializing in Artificial Intelligence with some Applied Mathematics on the side.
