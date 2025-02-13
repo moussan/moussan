@@ -1,11 +1,40 @@
-# Hi👋 Friends of Information, Technology and Science.
+<h1 align="center">🌟 Welcome to My Digital Universe! 🚀</h1>
 
-🔭 Currently learning advanced design patterns on GCP, AWS, Azure, and anything that lives on a cloud.
-👯 I’m studying for a Master's in Electrical Engineering Specializing in Artificial Intelligence with some Applied Mathematics on the side.
+### 🎓 Academic Journey
+- Master's in Electrical Engineering (AI Specialization) - *Current*
+- Master's in International Business
+- Computer Engineering (Applied Sciences University)
+- Applied Mathematics (The Open University)
+- Astrophysics (The Australian National University)
 
-⚡ Exploring Mathematics and Physics. Its the era of Citizen Scientists.
-Studied Applied Mathematics at The Open University and Astrophysics at The Australian National University.
-With a Computer Engineering background and a Master's in International Business.
+### 🔭 Current Adventures
+- Architecting scalable solutions across major cloud platforms (GCP, AWS, Azure)
+- Implementing advanced design patterns for cloud-native applications
+- Exploring the intersection of AI and distributed systems
 
-<h3>Languages and Tools:</h3>
-<p> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 💡 Passion Projects
+- Bridging the gap between theoretical physics and practical engineering
+- Contributing to open-source scientific computing projects
+- Advocating for citizen science initiatives
+- Animal Rescue Volunteer
+
+### 🛠️ Tech Stack
+```text
+Cloud     │ AWS ■■■■ GCP ■■■■ Azure ■■■■
+AI/ML     │ TensorFlow ■■■■ PyTorch ■■■■
+Backend   │ Python ■■■■ C ■■■■ Java ■■■
+DevOps    │ Docker ■■■■■ Terraform ■■■■
+```
+
+### 🌈 Fun Facts
+- Armchair Physicist by night 🌠
+- Mathematics enthusiast 🧮
+- Believes in the power of interdisciplinary learning 🎯
+
+---
+<p align="center">
+<i>The universe is not only stranger than we imagine, it is stranger than we can imagine.</i> - J.B.S. Haldane
+</p>
+
+[![GitHub Stats](https://img.shields.io/badge/GitHub-Stats-blue?style=flat-square&logo=github)](https://github.com/moussan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/moussan)
