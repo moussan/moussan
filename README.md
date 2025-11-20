@@ -19,12 +19,12 @@ This portfolio showcases **end-to-end architecture patterns** I’ve designed an
 
 | Project                             | Description                                  | Link                                  |
 | ----------------------------------- | -------------------------------------------- | ------------------------------------- |
-| **High Availability Web App**       | ALB + ASG + EC2 + Multi-AZ networking        | [Repo](../ha-web-app)                 |
-| **Serverless Event Pipeline**       | S3 → Lambda → DynamoDB → SNS                 | [Repo](../serverless-pipeline)        |
-| **AWS Landing Zone**                | Multi-account setup, SCPs, IAM, VPC baseline | [Repo](../landing-zone)               |
-| **Containerized Deployment on EKS** | GitOps example + workload deployment         | [Repo](../eks-application-deployment) |
-| **Hybrid Cloud Architecture**       | Direct Connect + TGW + VPN with on-prem      | [Repo](../hybrid-cloud-architecture)  |
-| **Data Lake (S3 + Athena + Glue)**  | Queryable data ingestion and transformation  | [Repo](../data-lake)                  |
+| **High Availability Web App**       | ALB + ASG + EC2 + Multi-AZ networking        | [Repo](/ha-web-app)                 |
+| **Serverless Event Pipeline**       | S3 → Lambda → DynamoDB → SNS                 | [Repo](./serverless-pipeline)        |
+| **AWS Landing Zone**                | Multi-account setup, SCPs, IAM, VPC baseline | [Repo](/landing-zone)               |
+| **Containerized Deployment on EKS** | GitOps example + workload deployment         | [Repo](/eks-application-deployment) |
+| **Hybrid Cloud Architecture**       | Direct Connect + TGW + VPN with on-prem      | [Repo](/hybrid-cloud-architecture)  |
+| **Data Lake (S3 + Athena + Glue)**  | Queryable data ingestion and transformation  | [Repo](/data-lake)                  |
 
 ---
 
@@ -42,5 +42,5 @@ This portfolio showcases **end-to-end architecture patterns** I’ve designed an
 ## **🤝 Let's Connect**
 
 📧 [moussan@gmail.com](mailto:moussan@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/moussaelnajmi)
-🌐 [Portfolio Repository](./cloud-architect-portfolio)
+🔗 [LinkedIn](https://www.linkedin.com/in/moussan)
+🌐 [Portfolio Repository](/cloud-architect-portfolio)
